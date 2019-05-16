@@ -12,7 +12,7 @@ setup(
     license='MIT',
 
     author="Dominik Haitz",
-    author_email="dominik.haitz at ...",
+    author_email="dominik.haitz@ionos.com",
 
     description="test",
     long_description=Path('README.md').open().read(),
